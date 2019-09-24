@@ -12,7 +12,7 @@ Please check with the speakers in order to get access to a AWS account.
 
 ## AWS account access - Event engine login url
 
-https://dashboard.eventengine.run/login
+[Even engine URL!](https://dashboard.eventengine.run/login)
 
 Use the Team hash to login. The team hash will be provided by the speakers.
 
@@ -54,11 +54,20 @@ The steps below outline the process of building your own recommendation model, i
 
 ### Activity 1
 
+![StackWizard5](static/imgs/activity-1.png)
+
+Steps:
  - Use a pre-trained model to generate recommendations (it will have steps to show how the model was built)
- - Use Amazon Sagemaker Ground Truth to generate test data
- - 
+ - Amazon Sagemaker Ground Truth to generate test data
+ - Using this generated data to do transfer learning on the previous model
 
 ### Activity 2
+
+![StackWizard5](static/imgs/activity-2.png)
+
+Steps:
+ - Use Amazon Personalize to generate recommendations
+ - Enable event tracking and view updated recommendations
 
 ## Using the Notebooks
 
