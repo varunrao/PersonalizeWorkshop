@@ -52,7 +52,13 @@ Once it has completed you'll see green text like below indicating that the work 
 
 The steps below outline the process of building your own recommendation model, improving it, and then cleaning up all of your resources to prevent any unwanted charges. To get started executing these follow the steps in the next section.
 
+### Activity 1
 
+ - Use a pre-trained model to generate recommendations (it will have steps to show how the model was built)
+ - Use Amazon Sagemaker Ground Truth to generate test data
+ - 
+
+### Activity 2
 
 ## Using the Notebooks
 
