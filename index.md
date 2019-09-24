@@ -17,6 +17,9 @@ Please check with the speakers in order to get access to a AWS account.
 
 Use the Team hash to login. The team hash will be provided by the speakers.
 
+![StackWizard3](static/imgs/EventEngine.png)
+
+![StackWizard3](static/imgs/EventEngine-1.png)
 
 ## Setup Environment
 
