@@ -15,8 +15,6 @@ Please check with the speakers in order to get access to a AWS account.
 
 <a href="https://dashboard.eventengine.run/login" target="_blank">Event engine URL</a>
 
-[Event engine URL](https://dashboard.eventengine.run/login){:target="_blank"}
-
 Use the Team hash to login. The team hash will be provided by the speakers.
 
 
