@@ -1,4 +1,4 @@
-# Building a recommender system with Amazon ML services
+# Building recommender system with Amazon ML services
 
 ## Getting Started
 
@@ -71,10 +71,20 @@ Steps:
 
 ## Using the Notebooks
 
-
 The rest of the lab will take place via the Jupyter notebooks, simply read each block before executing it and moving onto the next. If you have any questions about how to use the notebooks please ask your instructor or if you are working independently this is a pretty good video to get started:
 
-https://www.youtube.com/watch?v=Gzun8PpyBCo
+[Using JupyterLab](https://www.youtube.com/watch?v=Gzun8PpyBCo)
+
+We have 6 notebooks:
+
+ - 1_recommender.ipynb - Base recommender
+ - 2_ground_truth_setup.ipynb - Setup Amazon Ground Truth to generate more personalized training data
+ - 3_transfer_learning.ipynb - Run transfer learning
+ - 4_personalize_build_campaign.ipynb - Run personalization
+ - 5_view_campaign_and_interactions.ipynb - Enable event tracking
+ - 6_cleanup.ipynb - Cleanup
+
+
 
 ## After the Notebooks
 
