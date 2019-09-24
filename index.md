@@ -1,15 +1,17 @@
 ## Building a recommender system with Amazon ML services
 
-In this workshop we # Getting Started
+# Getting Started
 
 The below steps will walk you through building an environment. If you have any issues with any of the content below please open an issue here in the repository.
 
 ## Prerequisites
 
-Only applies if you are deploying with the CloudFormation template, otherwise consult the IAM permissions needed for your specific task.
+You will need access to AWS account in order to run the AWS cloudformation script.
+This will be provided to you using the Event engine login. 
+Please check with the speakers in order to get access to a AWS account.
 
-1. AWS Account
-2. User with administrator access to the AWS Account
+## Even engine url
+
 
 ## Building Your Environment
 
