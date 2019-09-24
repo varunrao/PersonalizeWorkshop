@@ -12,7 +12,8 @@ Please check with the speakers in order to get access to a AWS account.
 
 ## AWS account access - Event engine login url
 
-[Even engine URL!](https://dashboard.eventengine.run/login)
+
+<a href="https://dashboard.eventengine.run/login" target="_blank">Event engine URL</a>
 
 Use the Team hash to login. The team hash will be provided by the speakers.
 
@@ -21,7 +22,8 @@ Use the Team hash to login. The team hash will be provided by the speakers.
 
 Make sure you have logged into the AWS account (using Event engine login) before starting this. Once logged in, you can click on the link below to deply the AWS Cloudformation script. 
 
-[![Launch Stack](static/imgs/cfn-stack.png)](https://console.aws.amazon.com/cloudformation/home#/stacks/new?stackName=StrataNYPersonalizeWorkshop&templateURL=https://workshop-assets-us-east-1.s3.amazonaws.com/strata-ny-2019/cloudformation/master.yaml)
+
+<a href="https://console.aws.amazon.com/cloudformation/home#/stacks/new?stackName=StrataNYPersonalizeWorkshop&templateURL=https://workshop-assets-us-east-1.s3.amazonaws.com/strata-ny-2019/cloudformation/master.yaml"><img src="static/imgs/cfn-stack.png" title="Launch Stack" width="600" height="400" /></a>
 
 Follow along with the screenshots if you have any questions about these steps.
 
@@ -73,7 +75,9 @@ Steps:
 
 The rest of the lab will take place via the Jupyter notebooks, simply read each block before executing it and moving onto the next. If you have any questions about how to use the notebooks please ask your instructor or if you are working independently this is a pretty good video to get started:
 
-[Using JupyterLab](https://www.youtube.com/watch?v=Gzun8PpyBCo)
+
+<a href="https://www.youtube.com/watch?v=Gzun8PpyBCo" target="_blank">Using JupyterLab</a>
+
 
 We have 6 notebooks:
 
