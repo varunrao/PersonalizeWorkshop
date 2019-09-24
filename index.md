@@ -1,6 +1,6 @@
-## Building a recommender system with Amazon ML services
+# Building a recommender system with Amazon ML services
 
-# Getting Started
+## Getting Started
 
 The below steps will walk you through building an environment. If you have any issues with any of the content below please open an issue here in the repository.
 
@@ -10,7 +10,7 @@ You will need access to AWS account in order to run the AWS cloudformation scrip
 This will be provided to you using the Event engine login. 
 Please check with the speakers in order to get access to a AWS account.
 
-## Even engine url
+## Event engine url
 
 
 ## Building Your Environment
