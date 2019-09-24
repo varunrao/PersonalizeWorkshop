@@ -33,7 +33,7 @@ Start by clicking `Next` at the bottom like shown:
 
 ![StackWizard](static/imgs/img1.png)
 
-In the next page you need to provide a unique S3 bucket name for your file storage, it is recommended to simply add your first name and last name to the end of the default option as shown below, after that update click `Next` again.
+Click `Next` again (all required values should be pre polulated)
 
 ![StackWizard2](static/imgs/img3.png)
 
